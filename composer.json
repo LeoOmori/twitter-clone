@@ -1,0 +1,8 @@
+{
+    "name": "leonardo Omori",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    }
+}
